@@ -1,0 +1,364 @@
+airport_id,name,city,country,iata,latitude,longitude
+2397,Ninoy Aquino International Airport,Manila,Philippines,MNL,14.5086,121.019997
+2399,Awang Airport,Cotabato,Philippines,CBO,7.165239810943604,124.20999908447266
+2400,Cagayan De Oro Airport,Ladag,Philippines,\N,8.41562,124.611
+2401,Pagadian Airport,Pagadian,Philippines,PAG,7.83073144787,123.461179733
+2402,General Santos International Airport,Romblon,Philippines,GES,6.05800008774,125.096000671
+2404,Zamboanga International Airport,Zamboanga,Philippines,ZAM,6.922420024871826,122.05999755859376
+2405,Loakan Airport,Baguio,Philippines,BAG,16.375099182128906,120.62000274658205
+2406,Daet Airport,Daet,Philippines,DTE,14.129199981689451,122.9800033569336
+2407,Basa Air Base,Floridablanca,Philippines,\N,14.98724,120.492554
+2408,Lingayen Airport,Lingayen,Philippines,\N,16.034799575805664,120.24099731445312
+2409,San Jose Airport,San Jose,Philippines,SJI,12.361499786399998,121.04699707
+2410,Fernando Air Base,Lipa,Philippines,\N,13.954999923706056,121.125
+2411,Mamburao Airport,Mamburao,Philippines,MBO,13.208100318908691,120.6050033569336
+2414,Vigan Airport,Vigan,Philippines,\N,17.555299758911133,120.3560028076172
+2415,Dr.Juan C. Angara Airport,Baler,Philippines,BQA,15.729309,121.500034
+2421,Bagabag Airport,Bagabag,Philippines,\N,16.6192,121.251999
+2422,Daniel Z. Romualdez Airport,Tacloban,Philippines,TAC,11.228035,125.027761
+2423,Bacolod-Silay Airport,Bacolod,Philippines,BCD,10.7764,123.014999
+2425,Sibulan Airport,Dumaguete,Philippines,DGT,9.3337097168,123.300003052
+2426,Godofredo P. Ramos Airport,Caticlan,Philippines,MPH,11.9245,121.954002
+2428,Guiuan Airport,Guiuan,Philippines,\N,11.0354995728,125.741996765
+2429,Iloilo International Airport,Iloilo,Philippines,ILO,10.833017,122.493358
+2430,Kalibo International Airport,Kalibo,Philippines,KLO,11.679400444,122.375999451
+2433,Puerto Princesa Airport,Puerto Princesa,Philippines,PPS,9.742119789123535,118.75900268554688
+2435,Evelio Javier Airport,San Jose,Philippines,EUQ,10.765999794,121.932998657
+3033,Kampong Chhnang Airport,Kompong Chnang,Cambodia,KZC,12.255200386,104.564002991
+3034,Phnom Penh International Airport,Phnom-penh,Cambodia,PNH,11.546600341796877,104.84400177001952
+3035,Siem Reap International Airport,Siem-reap,Cambodia,REP,13.410699844400002,103.81300354
+3036,Stung Treng Airport,Stung Treng,Cambodia,TNX,13.531900405883787,106.01499938964844
+3115,Luang Phabang International Airport,Luang Prabang,Laos,LPQ,19.897300720214844,102.16100311279295
+3116,Pakse International Airport,Pakse,Laos,PKZ,15.132100105285645,105.78099822998048
+3117,Phonesavanh Airport,Phong Savanh,Laos,\N,19.45490074157715,103.21800231933594
+3118,Savannakhet Airport,Savannakhet,Laos,ZVK,16.55660057067871,104.76000213623048
+3119,Sam Neua Airport,Sam Neua,Laos,NEU,20.418399810791016,104.06700134277344
+3120,Wattay International Airport,Vientiane,Laos,VTE,17.988300323500003,102.56300354
+3157,Don Mueang International Airport,Bangkok,Thailand,DMK,13.9125995636,100.607002258
+3158,Kamphaeng Saen Airport,Nakhon Pathom,Thailand,KDT,14.1020002365,99.9171981812
+3159,Khok Kathiam Airport,Lop Buri,Thailand,\N,14.8746004105,100.663002014
+3161,U-Tapao International Airport,Pattaya,Thailand,UTP,12.67990016937256,101.00499725341795
+3162,Watthana Nakhon Airport,Prachin Buri,Thailand,\N,13.768799781799316,102.31500244140624
+3163,Lampang Airport,Lampang,Thailand,LPT,18.27090072631836,99.50420379638672
+3164,Phrae Airport,Phrae,Thailand,PRH,18.132200241088867,100.16500091552734
+3165,Hua Hin Airport,Prachuap Khiri Khan,Thailand,HHQ,12.6361999512,99.951499939
+3166,Takhli Airport,Nakhon Sawan,Thailand,TKH,15.277299881,100.29599762
+3167,Sak Long Airport,Phetchabun,Thailand,\N,16.82430076599121,101.2509994506836
+3169,Nakhon Sawan Airport,Nakhon Sawan,Thailand,\N,15.67300033569336,100.13700103759766
+3170,Phitsanulok Airport,Phitsanulok,Thailand,PHS,16.782899856567383,100.27899932861328
+3171,Khunan Phumipol Airport,Tak,Thailand,\N,17.23419952392578,99.05789947509766
+3172,Khoun Khan Airport,Satun,Thailand,\N,6.661399841308594,100.08000183105467
+3173,Narathiwat Airport,Narathiwat,Thailand,NAW,6.519919872283936,101.74299621582033
+3174,Krabi Airport,Krabi,Thailand,KBV,8.09912014008,98.9861984253
+3175,Songkhla Airport,Songkhla,Thailand,SGZ,7.186560153961182,100.60800170898438
+3176,Pattani Airport,Pattani,Thailand,PAN,6.785459995269775,101.15399932861328
+3177,Samui Airport,Ko Samui,Thailand,USM,9.547789573669998,100.06199646
+3178,Cha Eian Airport,Nakhon Si Thammarat,Thailand,\N,8.47115039825,99.9555969238
+3179,Phuket International Airport,Phuket,Thailand,HKT,8.1132,98.316902
+3180,Ranong Airport,Ranong,Thailand,UNN,9.777620315551758,98.58550262451172
+3181,Hat Yai International Airport,Hat Yai,Thailand,HDY,6.93320989609,100.392997742
+3182,Trang Airport,Trang,Thailand,TST,7.508739948272705,99.6166000366211
+3183,Udon Thani Airport,Udon Thani,Thailand,UTH,17.386400222800003,102.788002014
+3184,Sakon Nakhon Airport,Sakon Nakhon,Thailand,SNO,17.195100784301758,104.11900329589844
+3185,Surin Airport,Surin,Thailand,PXR,14.868300437927,103.49800109863
+3186,Loei Airport,Loei,Thailand,LOE,17.43910026550293,101.72200012207033
+3187,Khorat Airport,Nakhon Ratchasima,Thailand,\N,14.9344997406,102.07900238
+3188,Rob Muang Airport,Roi Et,Thailand,\N,16.07040023803711,103.64600372314452
+3196,Da Nang International Airport,Danang,Vietnam,DAD,16.043899536132812,108.1989974975586
+3197,Gia Lam Air Base,Hanoi,Vietnam,\N,21.04050064086914,105.88600158691406
+3198,Kep Air Base,Kep,Vietnam,\N,21.3945999146,106.261001587
+3199,Noi Bai International Airport,Hanoi,Vietnam,HAN,21.221200942993164,105.80699920654295
+3200,Nha Trang Air Base,Nhatrang,Vietnam,NHA,12.2275,109.192001
+3201,Phu Bai Airport,Hue,Vietnam,HUI,16.401500701899998,107.70300293
+3204,Phu Quoc International Airport,Phuquoc,Vietnam,PQC,10.1698,103.9931
+3205,Tan Son Nhat International Airport,Ho Chi Minh City,Vietnam,SGN,10.8187999725,106.652000427
+3240,Hasanuddin International Airport,Ujung Pandang,Indonesia,UPG,-5.061629772186279,119.5540008544922
+3241,Frans Kaisiepo Airport,Biak,Indonesia,BIK,-1.190019965171814,136.10800170898438
+3242,Nabire Airport,Nabire,Indonesia,NBX,-3.36818,135.496002
+3243,Moses Kilangin Airport,Timika,Indonesia,TIM,-4.528279781341553,136.88699340820312
+3244,Sentani International Airport,Jayapura,Indonesia,DJJ,-2.5769500733,140.5160064698
+3245,Wamena Airport,Wamena,Indonesia,WMX,-4.10251,138.957001
+3246,Mopah Airport,Merauke,Indonesia,MKQ,-8.52029037475586,140.41799926757812
+3247,Jalaluddin Airport,Gorontalo,Indonesia,GTO,0.63711899519,122.849998474
+3249,Mutiara Airport,Palu,Indonesia,PLW,-0.9185420274734496,119.91000366210938
+3250,Sam Ratulangi Airport,Manado,Indonesia,MDC,1.5492600202560425,124.9260025024414
+3251,Kasiguncu Airport,Poso,Indonesia,PSJ,-1.41674995422,120.657997131
+3252,Pitu Airport,Morotai Island,Indonesia,OTI,2.0459899902300003,128.324996948
+3253,Sultan Khairun Babullah Airport,Ternate,Indonesia,TTE,0.831413984298706,127.38099670410156
+3254,Syukuran Aminuddin Amir Airport,Luwuk,Indonesia,LUW,-1.03892,122.772003
+3256,"Pattimura Airport, Ambon",Ambon,Indonesia,AMQ,-3.7102599144,128.089004517
+3257,Fakfak Airport,Fak Fak,Indonesia,FKQ,-2.9201900959014893,132.26699829101562
+3258,Kaimana Airport,Kaimana,Indonesia,KNG,-3.6445200443267822,133.6959991455078
+3259,Babo Airport,Babo,Indonesia,BXB,-2.5322399139404297,133.43899536132812
+3260,Rendani Airport,Manokwari,Indonesia,MKW,-0.8918330073356628,134.0489959716797
+3261,Dominique Edward Osok Airport,Sorong,Indonesia,SOQ,-0.894,131.287
+3262,Bintulu Airport,Bintulu,Malaysia,BTU,3.12385010719,113.019996643
+3263,Kuching International Airport,Kuching,Malaysia,KCH,1.4846999645233154,110.34700012207033
+3264,Limbang Airport,Limbang,Malaysia,LMN,4.808300018310547,115.01000213623048
+3265,Marudi Airport,Marudi,Malaysia,MUR,4.178979873657227,114.3290023803711
+3266,Miri Airport,Miri,Malaysia,MYY,4.322010040283203,113.98699951171876
+3267,Sibu Airport,Sibu,Malaysia,SBW,2.2616000175476074,111.98500061035156
+3268,Lahad Datu Airport,Lahad Datu,Malaysia,LDU,5.032249927520752,118.3239974975586
+3269,Kota Kinabalu International Airport,Kota Kinabalu,Malaysia,BKI,5.9372100830078125,116.0510025024414
+3270,Labuan Airport,Labuan,Malaysia,LBU,5.300680160522461,115.25
+3271,Tawau Airport,Tawau,Malaysia,TWU,4.320159912109375,118.12799835205078
+3272,Brunei International Airport,Bandar Seri Begawan,Brunei,BWN,4.944200038909912,114.9280014038086
+3273,Sultan Syarif Kasim Ii (Simpang Tiga) Airport,Pekanbaru,Indonesia,PKU,0.4607860147953033,101.44499969482422
+3274,Pinang Kampai Airport,Dumai,Indonesia,DUM,1.60919,101.433998
+3275,Soekarno-Hatta International Airport,Jakarta,Indonesia,CGK,-6.1255698204,106.65599823
+3276,Binaka Airport,Gunung Sitoli,Indonesia,GNS,1.16638,97.704697
+3277,Aek Godang Airport,Padang Sidempuan,Indonesia,AEG,1.4001,99.430496
+3278,Minangkabau International Airport,Padang,Indonesia,PDG,-0.786917,100.280998
+3279,Soewondo Air Force Base,Medan,Indonesia,MES,3.559167,98.671111
+3280,Dr Ferdinand Lumban Tobing Airport,Sibolga,Indonesia,FLZ,1.55594,98.888901
+3281,Nanga Pinoh Airport,Nangapinoh,Indonesia,NPO,-0.34886899590492,111.74800109863
+3282,Ketapang(Rahadi Usman) Airport,Ketapang,Indonesia,KTG,-1.816640019416809,109.96299743652344
+3284,Supadio Airport,Pontianak,Indonesia,PNK,-0.1507109999656677,109.40399932861328
+3287,Sultan Thaha Airport,Jambi,Indonesia,DJB,-1.6380200386047363,103.6439971923828
+3288,Fatmawati Soekarno Airport,Bengkulu,Indonesia,BKS,-3.8637,102.338997
+3289,Sultan Mahmud Badaruddin II Airport,Palembang,Indonesia,PLM,-2.8982501029968,104.69999694824
+3291,Japura Airport,Rengat,Indonesia,RGT,-0.3528079986572265,102.33499908447266
+3292,Lhok Sukon Airport,Lhok Sukon,Indonesia,LSX,5.069509983062744,97.25920104980467
+3294,Sultan Iskandar Muda International Airport,Banda Aceh,Indonesia,BTJ,5.522872024010001,95.42063713070002
+3295,Kluang Airport,Kluang,Malaysia,\N,2.04138994217,103.306999207
+3296,Sultan Abdul Halim Airport,Alor Setar,Malaysia,AOR,6.189670085906982,100.39800262451172
+3297,Butterworth Airport,Butterworth,Malaysia,BWH,5.4659199714660645,100.39099884033205
+3298,Sultan Ismail Petra Airport,Kota Bahru,Malaysia,KBR,6.166850090026856,102.29299926757812
+3299,Kuantan Airport,Kuantan,Malaysia,KUA,3.775389909744263,103.20899963378906
+3300,Kerteh Airport,Kerteh,Malaysia,KTE,4.537220001220703,103.427001953125
+3301,Simpang Airport,Simpang,Malaysia,\N,3.1122500896453857,101.7030029296875
+3302,Sultan Azlan Shah Airport,Ipoh,Malaysia,IPH,4.567969799041748,101.09200286865234
+3303,Senai International Airport,Johor Bahru,Malaysia,JHB,1.64131,103.669998
+3304,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia,KUL,2.745579957962,101.70999908447
+3305,Langkawi International Airport,Langkawi,Malaysia,LGK,6.329730033874512,99.72869873046876
+3306,Malacca Airport,Malacca,Malaysia,MKZ,2.2633600235,102.251998901
+3307,Sultan Mahmud Airport,Kuala Terengganu,Malaysia,TGG,5.3826398849487305,103.10299682617188
+3308,Penang International Airport,Penang,Malaysia,PEN,5.297140121459961,100.2770004272461
+3312,Sembawang Air Base,Sembawang,Singapore,\N,1.4252599477767944,103.81300354003906
+3313,Paya Lebar Air Base,Paya Lebar,Singapore,QPG,1.360419988632202,103.91000366210938
+3314,Tengah Air Base,Tengah,Singapore,TGA,1.38725996017,103.708999634
+3315,Seletar Airport,Singapore,Singapore,XSP,1.416949987411499,103.86799621582033
+3316,Singapore Changi Airport,Singapore,Singapore,SIN,1.35019,103.994003
+3407,Pulau Tioman Airport,Tioman,Malaysia,TOD,2.818180084228516,104.16000366210938
+3408,Sultan Abdul Aziz Shah International Airport,Kuala Lumpur,Malaysia,SZB,3.130579948425293,101.54900360107422
+3885,Suvarnabhumi Airport,Bangkok,Thailand,BKK,13.681099891662598,100.74700164794922
+3886,Naha Airport,Naha,Indonesia,NAH,3.6832098960876474,125.52799987792967
+3887,Andi Jemma Airport,Masamba,Indonesia,MXB,-2.55803,120.323997
+3888,Soroako Airport,Soroako,Indonesia,SQR,-2.5311999320983887,121.35800170898438
+3889,Pongtiku Airport,Makale,Indonesia,TTR,-3.0447399616241,119.82199859619
+3890,Wolter Monginsidi Airport,Kendari,Indonesia,KDI,-4.081610202789307,122.41799926757812
+3891,Maimun Saleh Airport,Sabang,Indonesia,SBG,5.87412977219,95.3396987915
+3892,Cibeureum Airport,Tasikmalaya,Indonesia,TSY,-7.346600055690001,108.246002197
+3893,Iswahyudi Airport,Madiun,Indonesia,\N,-7.615769863128662,111.43399810791016
+3894,Abdul Rachman Saleh Airport,Malang,Indonesia,MLG,-7.926559925079999,112.714996338
+3895,Budiarto Airport,Tangerang,Indonesia,\N,-6.293171,106.57
+3896,Husein Sastranegara International Airport,Bandung,Indonesia,BDO,-6.900629997253418,107.57599639892578
+3897,Penggung Airport,Cirebon,Indonesia,CBN,-6.756140232090001,108.540000916
+3898,Adi Sutjipto International Airport,Yogyakarta,Indonesia,JOG,-7.788179874420166,110.43199920654295
+3899,Tunggul Wulung Airport,Cilacap,Indonesia,CXP,-7.645060062410001,109.033996582
+3900,Pondok Cabe Air Base,Jakarta,Indonesia,PCB,-6.336959838867188,106.76499938964844
+3901,Achmad Yani Airport,Semarang,Indonesia,SRG,-6.97273,110.375
+3903,Hang Nadim International Airport,Batam,Indonesia,BTH,1.12102997303,104.119003296
+3904,Buluh Tumbang (H A S Hanandjoeddin) Airport,Tanjung Pandan,Indonesia,TJQ,-2.74571990967,107.754997253
+3905,Pangkal Pinang (Depati Amir) Airport,Pangkal Pinang,Indonesia,PGK,-2.16219997406,106.138999939
+3906,Raja Haji Fisabilillah International Airport,Tanjung Pinang,Indonesia,TNJ,0.922683000565,104.531997681
+3907,Dabo Airport,Singkep,Indonesia,SIQ,-0.47918900847435,104.5790023803711
+3908,Syamsudin Noor Airport,Banjarmasin,Indonesia,BDJ,-3.4423599243164062,114.76300048828124
+3909,Batu Licin Airport,Batu Licin,Indonesia,BTW,-3.4124100208300003,115.995002747
+3910,Iskandar Airport,Pangkalan Bun,Indonesia,PKN,-2.70519995689,111.672996521
+3911,Tjilik Riwut Airport,Palangkaraya,Indonesia,PKY,-2.22513008118,113.943000793
+3913,Maumere(Wai Oti) Airport,Maumere,Indonesia,MOF,-8.64064979553,122.236999512
+3914,Ende (H Hasan Aroeboesman) Airport,Ende,Indonesia,ENE,-8.8492898941,121.661003113
+3915,Frans Sales Lega Airport,Ruteng,Indonesia,RTG,-8.5970096588135,120.47699737549
+3916,El Tari Airport,Kupang,Indonesia,KOE,-10.171600341796877,123.6709976196289
+3917,Komodo Airport,Labuhan Bajo,Indonesia,LBJ,-8.48666,119.889
+3919,Sultan Aji Muhamad Sulaiman Airport,Balikpapan,Indonesia,BPN,-1.26827001572,116.893997192
+3920,Juwata Airport,Taraken,Indonesia,TRK,3.326667,117.569444
+3921,Temindung Airport,Samarinda,Indonesia,SRI,-0.484530985355,117.156997681
+3922,Tanjung Santan Airport,Tanjung Santan,Indonesia,TSX,-0.0929730013013,117.45300293
+3923,Selaparang Airport,Mataram,Indonesia,AMI,-8.560709953309999,116.095001221
+3924,Muhammad Salahuddin Airport,Bima,Indonesia,BMU,-8.5396499633789,118.68699645996
+3927,Umbu Mehang Kunda Airport,Waingapu,Indonesia,WGP,-9.66922,120.302002
+3928,Juanda International Airport,Surabaya,Indonesia,SUB,-7.379829883575439,112.78700256347656
+3929,Adi Sumarmo Wiryokusumo Airport,Solo City,Indonesia,SOC,-7.516089916229248,110.75700378417967
+3931,Chiang Mai International Airport,Chiang Mai,Thailand,CNX,18.7667999268,98.962600708
+3932,Chiang Rai International Airport,Chiang Rai,Thailand,CEI,19.952299118,99.8828964233
+3933,Nakhon Si Thammarat Airport,Nakhon Si Thammarat,Thailand,NST,8.539620399475098,99.9447021484375
+3935,Nakhon Ratchasima Airport,Nakhon Ratchasima,Thailand,NAK,14.94950008392334,102.31300354003906
+3936,Nakhon Phanom Airport,Nakhon Phanom,Thailand,KOP,17.383800506591797,104.64299774169922
+3937,Ubon Ratchathani Airport,Ubon Ratchathani,Thailand,UBP,15.2512998581,104.870002747
+3938,Khon Kaen Airport,Khon Kaen,Thailand,KKC,16.466600418099997,102.783996582
+3939,Sukhothai Airport,Sukhothai,Thailand,THS,17.238000869750977,99.81819915771484
+3940,Ngurah Rai (Bali) International Airport,Denpasar,Indonesia,DPS,-8.7481698989868,115.16699981689
+3994,Tagbilaran Airport,Tagbilaran,Philippines,TAG,9.665442,123.853533
+4000,Surat Thani Airport,Surat Thani,Thailand,URT,9.13259983063,99.135597229
+4013,LTS Pulau Redang Airport,Redang,Malaysia,RDN,5.765279769897461,103.00700378417967
+4056,Mulu Airport,Mulu,Malaysia,MZV,4.048329830169678,114.80500030517578
+4081,Xieng Khouang Airport,Phon Savan,Laos,XKH,19.450001,103.157997
+4086,Mae Hong Son Airport,Mae Hong Son,Thailand,HGN,19.301300048828125,97.97579956054688
+4090,Francisco Bangoy International Airport,Davao,Philippines,DVO,7.1255202293396,125.64600372314452
+4093,Sihanoukville International Airport,Sihanoukville,Cambodia,KOS,10.57970047,103.637001038
+4131,Nan Airport,Nan,Thailand,NNT,18.807899475097656,100.78299713134766
+4132,Roi Et Airport,Roi Et,Thailand,ROI,16.11680030822754,103.77400207519533
+4133,Buri Ram Airport,Buri Ram,Thailand,BFV,15.229499816894531,103.25299835205078
+4135,Trat Airport,Trat,Thailand,TDX,12.274600029,102.319000244
+4140,Diosdado Macapagal International Airport,Angeles City,Philippines,CRK,15.186,120.559998
+4141,Sandakan Airport,Sandakan,Malaysia,SDK,5.900899887084961,118.05899810791016
+4142,Luang Namtha Airport,Luang Namtha,Laos,LXG,20.966999,101.400002
+4143,Oudomsay Airport,Muang Xay,Laos,ODY,20.68269920349121,101.99400329589844
+4153,Lien Khuong Airport,Dalat,Vietnam,DLI,11.75,108.366997
+4154,Dong Hoi Airport,Dong Hoi,Vietnam,VDH,17.515,106.590556
+4155,Rach Gia Airport,Rach Gia,Vietnam,VKG,9.95802997234,105.132379532
+4156,Cà Mau Airport,Ca Mau,Vietnam,CAH,9.177667,105.177778
+4157,Chu Lai International Airport,Chu Lai,Vietnam,VCL,15.4033002853,108.706001282
+4158,Dong Tac Airport,Tuy Hoa,Vietnam,TBB,13.0495996475,109.333999634
+4159,Mae Hong Son Airport,Pai,Thailand,PYY,19.3719997406,98.43699646
+4199,Francisco B. Reyes Airport,Busuanga,Philippines,USU,12.1215000153,120.099998474
+4200,Bancasi Airport,Butuan,Philippines,BXU,8.9515,125.4788
+4201,Dipolog Airport,Dipolog,Philippines,DPL,8.60198349877,123.341875076
+4202,Laoag International Airport,Laoag,Philippines,LAO,18.1781005859375,120.53199768066406
+4203,Legazpi City International Airport,Legazpi,Philippines,LGP,13.1575,123.735
+4204,Labo Airport,Ozamis,Philippines,OZC,8.178509712219238,123.84200286865234
+4206,Mactan Cebu International Airport,Cebu,Philippines,CEB,10.307499885559,123.97899627686
+4295,Ratanakiri Airport,Ratanakiri,Cambodia,RBE,13.729999542236328,106.98699951171876
+4299,Phetchabun Airport,Phetchabun,Thailand,PHY,16.6760005951,101.194999695
+4300,Chumphon Airport,Chumphon,Thailand,CJM,10.711199760437012,99.36170196533205
+6009,Subic Bay International Airport,Olongapo City,Philippines,SFS,14.794400215148926,120.27100372314452
+6010,Cuyo Airport,Cuyo,Philippines,CYU,10.858099937438965,121.06900024414062
+6011,Rajah Buayan Air Base,General Santos City,Philippines,\N,6.10644006729,125.23500061
+6012,Camiguin Airport,Camiguin,Philippines,CGM,9.253520011901855,124.70700073242188
+6013,Jolo Airport,Jolo,Philippines,JOL,6.0536699295043945,121.01100158691406
+6014,Sanga Sanga Airport,Sanga Sanga,Philippines,TWT,5.046991,119.742996
+6016,Surigao Airport,Sangley Point,Philippines,SUG,9.755838325629998,125.480947495
+6017,Tandag Airport,Tandag,Philippines,TDG,9.072110176086426,126.1709976196289
+6018,Naga Airport,Naga,Philippines,WNP,13.58489990234375,123.2699966430664
+6019,Basco Airport,Basco,Philippines,BSO,20.4513,121.980003
+6020,San Fernando Airport,San Fernando,Philippines,SFE,16.595600128173828,120.3030014038086
+6021,Tuguegarao Airport,Tuguegarao,Philippines,TUG,17.6433676823,121.733150482
+6022,Virac Airport,Virac,Philippines,VRC,13.57639980316162,124.20600128173828
+6023,Calbayog Airport,Calbayog City,Philippines,CYP,12.072699546813965,124.54499816894533
+6024,Catarman National Airport,Catarman,Philippines,CRM,12.502400398254396,124.63600158691406
+6025,Moises R. Espinosa Airport,Masbate,Philippines,MBT,12.369682,123.630095
+6026,Roxas Airport,Roxas City,Philippines,RXS,11.597700119018556,122.7519989013672
+6171,Battambang Airport,Battambang,Cambodia,BBM,13.095600128173828,103.2239990234375
+6177,Ban Huoeisay Airport,Huay Xai,Laos,HOE,20.2572994232,100.43699646
+6186,Mae Sot Airport,Tak,Thailand,MAQ,16.699899673461914,98.54509735107422
+6187,Buon Ma Thuot Airport,Buonmethuot,Vietnam,BMV,12.668299675,108.120002747
+6188,Cat Bi International Airport,Haiphong,Vietnam,HPH,20.81940078735352,106.7249984741211
+6189,Cam Ranh Airport,Nha Trang,Vietnam,CXR,11.99820041656494,109.21900177001952
+6190,Co Ong Airport,Conson,Vietnam,VCS,8.73183,106.633003
+6191,Can Tho International Airport,Can Tho,Vietnam,VCA,10.085100174,105.711997986
+6192,Dien Bien Phu Airport,Dienbienphu,Vietnam,DIN,21.3974990845,103.008003235
+6193,Phu Cat Airport,Phucat,Vietnam,UIH,13.955,109.042
+6194,Pleiku Airport,Pleiku,Vietnam,PXU,14.00450038909912,108.01699829101562
+6195,Vinh Airport,Vinh,Vietnam,VII,18.7376003265,105.67099762
+6203,Sumbawa Besar Airport,Sumbawa Island,Indonesia,SWQ,-8.48904037475586,117.41200256347656
+6204,Tambolaka Airport,Waikabubak-Sumba Island,Indonesia,TMC,-9.40972,119.244003
+6205,Bokondini Airport,Bokondini-Papua Island,Indonesia,BUI,-3.6822,138.6755
+6206,Senggeh Airport,Senggeh-Papua Island,Indonesia,SEH,-3.45,140.779
+6207,Tanjung Harapan Airport,Tanjung Selor-Borneo Island,Indonesia,TJS,2.83583333333,117.373611111
+6208,Datadawai Airport,Datadawai-Borneo Island,Indonesia,DTD,0.8106,114.5306
+6209,Kalimarau Airport,Tanjung Redep-Borneo Island,Indonesia,BEJ,2.1555,117.431999
+6210,Warukin Airport,Tanjung-Borneo Island,Indonesia,TJG,-2.21655988693,115.435997009
+6211,Sampit(Hasan) Airport,Sampit-Borneo Island,Indonesia,SMQ,-2.49919009209,112.974998474
+6212,Dumatumbun Airport,Langgur-Kei Islands,Indonesia,LUV,-5.661620140075684,132.7310028076172
+6213,Mali Airport,Alor Island,Indonesia,ARD,-8.132340431213379,124.59700012207033
+6214,Belaga Airport,Belaga,Malaysia,BLG,2.65000009537,113.766998291
+6215,Long Lellang Airport,Long Datih,Malaysia,LGL,3.42100000381,115.153999329
+6216,Long Seridan Airport,Long Seridan,Malaysia,ODN,3.9670000076293945,115.0500030517578
+6217,Mukah Airport,Mukah,Malaysia,MKM,2.90639,112.080002
+6218,Bakalalan Airport,Bakalalan,Malaysia,BKM,3.973999977111816,115.61799621582033
+6219,Lawas Airport,Lawas,Malaysia,LWY,4.84917,115.407997
+6220,Bario Airport,Bario,Malaysia,BBN,3.7338900566101074,115.47899627685548
+6221,Tomanggong Airport,Tomanggong,Malaysia,TMG,5.40257,118.65763
+6222,Kudat Airport,Kudat,Malaysia,KUD,6.922500133514404,116.83599853515624
+6223,Radin Inten II (Branti) Airport,Bandar Lampung-Sumatra Island,Indonesia,TKG,-5.240556,105.175556
+6224,Halim Perdanakusuma International Airport,Jakarta,Indonesia,HLP,-6.266610145568848,106.89099884033205
+6225,Ranai Airport,Ranai-Natuna Besar Island,Indonesia,NTX,3.90871,108.388
+6226,Pangsuma Airport,Putussibau-Borneo Island,Indonesia,PSU,0.8355780243873596,112.93699645996094
+6227,Sintang(Susilo) Airport,Sintang-Borneo Island,Indonesia,SQG,0.0636190026998519,111.4729995727539
+6228,Pendopo Airport,Talang Gudang-Sumatra Island,Indonesia,PDO,-3.2860701084136963,103.87999725341795
+6229,Malikus Saleh Airport,Lhok Seumawe-Sumatra Island,Indonesia,LSW,5.226679801940918,96.95030212402344
+6230,Pulau Pangkor Airport,Pangkor Island,Malaysia,PKG,4.244719982147217,100.5530014038086
+6232,Long Bawan Airport,Long Bawan-Borneo Island,Indonesia,LBW,3.9028,115.6921
+6233,Nunukan Airport,Nunukan-Nunukan Island,Indonesia,NNX,4.13333333333,117.666666667
+6234,Long Apung Airport,Long Apung-Borneo Island,Indonesia,LPU,1.704486,114.970297
+6455,Berkley Structures Heliport,Pagerungan,Indonesia,\N,47.682043,-122.148456
+6458,Anduki Airport,Seria,Brunei,\N,4.637000083920001,114.382003784
+6726,Ormoc Airport,Ormoc City,Philippines,OMC,11.05799961090088,124.56500244140624
+6733,Cauayan Airport,Cauayan,Philippines,CYZ,16.9298992157,121.752998352
+6745,Tugdan Airport,Romblon,Philippines,TBH,12.3109998703,122.084999084
+6769,Long Akah Airport,Long Akah,Malaysia,LKH,3.299999952316284,114.78299713134766
+6787,Kalay Airport,Kalemyo,Myanmar,KMV,23.188800811767575,94.05110168457033
+6791,Marinduque Airport,Gasan,Philippines,MRQ,13.361000061035156,121.82599639892578
+6974,Siargao Airport,Siargao,Philippines,IAO,9.8591,126.014
+7536,Tarempa Airport,Anambas Islands,Indonesia,MWK,3.3481199741363525,106.25800323486328
+7559,Borongan Airport,Borongan,Philippines,\N,11.6743001938,125.478996277
+7560,Lubang Airport,Lubang,Philippines,LBX,13.85540008544922,120.1050033569336
+7700,Phan Rang Airport,Phan Rang,Vietnam,PHA,11.6335000992,108.952003479
+7701,Na-San Airport,Son-La,Vietnam,SQH,21.21699905395508,104.03299713134766
+8401,Lombok International Airport,Praya,Indonesia,LOP,-8.757322,116.276675
+8431,Cesar Lim Rodriguez Airport,Taytay,Philippines,RZP,10.81874,119.507697
+8684,Saravane Airport,Saravane,Laos,VNA,15.7094392077,106.410698891
+8752,Nusawiru Airport,Nusawiru,Indonesia,CJN,-7.719895,108.488995
+8807,Tabing Airport,Padang,Indonesia,\N,-0.874989,100.351997
+8966,Kratie Airport,Kratie,Cambodia,KTI,12.48799991607666,106.05500030517578
+9103,Maranggo Airport,Sulawesi Tenggara,Indonesia,TQQ,-5.7645702362061,123.91699981689
+9233,Tak Airport,Tak,Thailand,TKT,16.895999908447266,99.25330352783205
+9397,Waris Airport,Waris-Papua Island,Indonesia,WAR,-3.235,140.994
+9528,Fazenda Campo Verde Airport,Sihanoukville,Cambodia,\N,1.04278004169,-50.5167007446
+9866,Beringin Airport,Muara Teweh,Indonesia,\N,-0.940325021744,114.893875122
+9868,Mulia Airport,Mulia,Indonesia,LII,-3.7018,137.957
+9872,Stenkol Airport,Bintuni,Indonesia,NTI,-2.1033,133.5164
+9873,Wasior Airport,Wasior,Indonesia,WSR,-2.721,134.5061
+9874,Silangit Airport,Siborong-Borong,Indonesia,DTB,2.25973,98.991898
+9875,Lasikin Airport,Sinabang,Indonesia,\N,2.4102799892425537,96.32559967041016
+9886,Seunagan Airport,Nagan Raya,Indonesia,MEQ,4.25,96.21700286865234
+9887,Betoambari Airport,Bau-Bau,Indonesia,BUW,-5.486879825592041,122.56900024414062
+9888,Kao Airport,Kao,Indonesia,KAZ,1.1852799654006958,127.89600372314452
+9889,Melangguane Airport,Melonguane,Indonesia,MNA,4.00694,126.672997
+9890,Sanggata/Sangkimah Airport,Sanggata,Indonesia,SGQ,0.3847,117.543
+9891,Muara Bungo Airport,Muara Bungo,Indonesia,BUU,-1.1278,102.135
+9892,Selayar/Aroepala Airport,Selayar,Indonesia,\N,-6.1751,120.4362
+9897,Illaga Airport,Illaga,Indonesia,ILA,-3.97648,137.6225
+9898,Oksibil Airport,Oksibil,Indonesia,OKL,-4.9071,140.6277
+9899,Kokonau Airport,Kokonau,Indonesia,KOX,-4.71075,136.43515
+9935,Kualanamu International Airport,Medan,Indonesia,KNO,3.642222,98.885278
+10158,Blimbingsari Airport,Banyuwangi,Indonesia,BWX,-8.31015,114.3401
+11258,Saumlaki/Olilit Airport,Saumlaki,Indonesia,SXK,-7.9886097908,131.305999756
+11288,Dewadaru - Kemujan Island,Karimunjawa,Indonesia,KWB,-5.80091,110.47838
+11291,Attopeu Airport,Attopeu,Laos,AOU,14.814715357,106.821699142
+11401,Sultan Bantilan Airport,Toli-Toli,Indonesia,TLI,1.123428,120.793658
+11700,Siquijor Airport,Siquijor,Philippines,\N,9.21420322319,123.472251892
+11926,Allah Valley Airport,Surallah,Philippines,AAV,6.366819858551025,124.7509994506836
+11927,Bislig Airport,,Philippines,BPH,8.19594955444336,126.3219985961914
+11928,Mati National Airport,,Philippines,MXI,6.949091,126.27368
+12004,Changi Air Base (East),Singapore,Singapore,\N,1.3441400528,104.009002686
+13097,Cascade Heliport,Kobok,Indonesia,\N,47.512346,-120.488691
+13243,Bajawa Soa Airport,Bajawa,Indonesia,BJW,-8.70743498008,121.057426929
+13266,Boun Neau Airport,Phongsaly,Laos,PCQ,21.6475,101.9
+13520,Trunojoyo Airport,Sumenep,Indonesia,SUP,-7.0242,113.89023
+13521,Lasondre Airport,Batu Islands,Indonesia,\N,-0.01924,98.30097
+13525,Rokot Airport,Sipora,Indonesia,RKO,-2.0991199016571045,99.70069885253906
+13529,Pasir Pangaraan Airport,Pasir Pangaraian,Indonesia,PPR,0.8454310297966003,100.37000274658205
+13530,Sei Bati Airport,Tanjung Balai Karimun,Indonesia,TJB,1.0527,103.3931
+13532,Departi Parbo Airport,Kerinci Regency,Indonesia,KRC,-2.093,101.4683
+13535,Namrole Airport,Buru Island,Indonesia,NRE,-3.8548,126.7012
+13538,Namlea Airport,Namlea,Indonesia,NAM,-3.235569953918457,127.0999984741211
+13540,Rar Gwamar Airport,Dobo,Indonesia,DOB,-5.77222013474,134.212005615
+13543,Emalamo Sanana Airport,Sanana,Indonesia,SQN,-2.080509901046753,125.96700286865234
+13544,Ayawasi Airport,Ayawasi,Indonesia,AYW,-1.1593,132.4633
+13545,Bunyu Airport,Bunyu,Indonesia,BYQ,3.45571994781,117.866996765
+13546,Buol Airport,Buol,Indonesia,UOL,1.1027,121.4141
+13548,Sugimanuru Airport,Raha,Indonesia,RAQ,-4.760557,122.569371
+13566,Sayaboury Airport,Sainyabuli,Laos,ZBY,19.2436,101.7093
+13580,Palanan Community Airport,Palanan,Philippines,\N,17.065667,122.427671
+13581,Itbayat Airport,Itbayat,Philippines,\N,20.722521,121.809969
+13583,Catbalogan Airport,Catbalogan City,Philippines,\N,11.81,124.83
+13584,Maasin Airport,Maasin,Philippines,\N,10.187299728393556,124.78199768066406
+13592,Bantayan Airport,Bantayan,Philippines,\N,11.1624,123.7848
+13593,Biliran Airport,Biliran,Philippines,\N,11.5159178299,124.428985119
+13622,Nop Goliat Airport,Dekai,Indonesia,DEX,-4.8557,139.482006
+13632,Tanah Merah Airport,Boven Digoel,Indonesia,TMH,-6.099219799041748,140.29800415039062
+14097,Bilogai-Sugapa Airport,Sugapa-Papua Island,Indonesia,UGU,-3.73956,137.031998
+14102,Laguindingan Airport,Cagayan de Oro City,Philippines,CGY,8.612203,124.456496
