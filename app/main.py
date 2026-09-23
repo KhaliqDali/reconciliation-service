@@ -146,17 +146,11 @@ async def reconcile_post(request: Request):
         conn = get_connection()
         cursor = conn.cursor()
 
-        first_query_logged = False
         for key, query in queries.items():
             query_string = query.get("query", "")
             limit = query.get("limit", 5)
             query_country_code = extract_query_country_code(query)
 
-            # TEMPORARY DEBUG — remove once country matching is verified
-            if not first_query_logged:
-                print(f"DEBUG raw query: {json.dumps(query)[:400]}")
-                print(f"DEBUG extracted country code: '{query_country_code}'")
-                first_query_logged = True
 
             # Layer 1 — exact match on name/asciiname
             cursor.execute("""
@@ -276,9 +270,6 @@ async def reconcile_post(request: Request):
                         ml_conf, _ = get_ml_confidence(
                             query_string, name, sem_score, country_match, cursor
                         )
-                        # TEMPORARY DEBUG — remove once country matching is verified
-                        print(f"DEBUG ML: q='{query_string}' cand='{name}' "
-                              f"country_match={country_match} conf={ml_conf:.3f}")
                         final_score = round(ml_conf * 100, 1)
                         # Threshold lowered from 0.9: with heavy class imbalance
                         # the forest is conservative, and verified true matches
